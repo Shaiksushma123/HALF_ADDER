@@ -39,3 +39,7 @@ endmodule
 ```
 # output:
 ![image](https://github.com/Shaiksushma123/HALF_ADDER/assets/159005642/df83d2a3-33b4-46d7-b8b8-e32d810e7edb)
+
+
+# Result:
+Thus the verilog program for half adder has been simulated and verified successfully using logic truth table.
